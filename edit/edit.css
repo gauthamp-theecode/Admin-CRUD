@@ -1,0 +1,113 @@
+body{
+    background-color: #51b9c7;
+}
+
+.test{
+    color: rgb(218, 78, 101);
+}
+
+.edit-form {
+    border-style: solid;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    width: 50%;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background-color:aquamarine;
+}
+
+.output-table {
+    border-style: solid;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+    width: 70%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+body > table{
+    width: 80%;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+table.list{
+    width:100%;
+}
+
+td,th {
+    border: 1px solid #db2b2b;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even),table.list thead>tr {
+    background-color: #12cf4e;
+}
+
+input[type=text], input[type=number] {
+    width: 100%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=text], input[type=email] {
+    width: 100%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=text], input[type=phone] {
+    width: 100%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=text], input[type=company] {
+    width: 100%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=text], input[type=salary] {
+    width: 100%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=text], input[type=city] {
+    width: 100%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
